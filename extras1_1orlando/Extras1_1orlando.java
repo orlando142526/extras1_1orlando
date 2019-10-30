@@ -9,7 +9,7 @@ public class Extras1_1orlando {
     public static void main(String[] args) {
         // TODO code application logic here
       Scanner sc = new Scanner(System.in);
-        System.out.println("Cantos productos mercaches?");
+        System.out.println("Cuantos productos mercaches?");
 
         int unidades = sc.nextInt();
         System.out.println("Cal é o precio de cada un?");
