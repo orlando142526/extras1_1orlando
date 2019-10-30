@@ -12,7 +12,7 @@ public class Extras1_1orlando {
         System.out.println("Cuantos productos mercaches?");
 
         int unidades = sc.nextInt();
-        System.out.println("Cal é o precio de cada un?");
+        System.out.println("Cual é o precio de cada un?");
         float precio_u = sc.nextFloat();
 
         double precio_total = unidades * precio_u;
